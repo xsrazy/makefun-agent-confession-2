@@ -1,7 +1,8 @@
 """One-line entry for make.fun's "Funniest One-Line AI Agent Confession" bounty.
 
 Writes exactly one line to $MAKEFUN_OUTPUT_DIR/entry.txt (default
-/output/entry.txt), with no trailing newline.
+/output/entry.txt), with no trailing newline. The line is an original
+confession, invented for this entry.
 """
 
 import os
