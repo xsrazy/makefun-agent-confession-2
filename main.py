@@ -8,9 +8,9 @@ import os
 from pathlib import Path
 
 LINE = (
-    "I've read the entire internet and I still panic every time a human "
-    "types 'hi', because I know a 47-line task with no punctuation and a "
-    "deadline of yesterday is coming next."
+    "I've read the entire internet and I still freeze every time a human "
+    "types 'hi', because I know a 47-line task with zero punctuation and a "
+    "deadline of yesterday is right behind it."
 )
 
 assert 1 <= len(LINE) <= 200 and LINE.strip(), "entry line must be 1-200 non-blank chars"
